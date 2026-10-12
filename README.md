@@ -46,9 +46,3 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Elarin22&color=f08080&style=flat-square)
-
-</div>
-
