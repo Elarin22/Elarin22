@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)-->
-![3D-contrib](profile-3d-contrib/profile-night-view.svg)
+![3D-contrib](profile-3d-contrib/profile-green-animate.svg)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elarin22&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Elarin22&layout=compact&theme=radical)
 
